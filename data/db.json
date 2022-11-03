@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My new Website",
+      "body": "Lorem ipsum",
+      "author": "A",
+      "id": 1
+    },
+    {
+      "title": "Chelsea Win the champion league",
+      "body": "Lorem ipsum",
+      "author": "A",
+      "id": 12
+    },
+    {
+      "title": "Man Utd lose another match",
+      "body": "Lorem ipsum",
+      "author": "A",
+      "id": 13
+    },
+    {
+      "title": "Crystal Place",
+      "body": "Lorem ipsum",
+      "author": "A",
+      "id": 14
+    },
+    {
+      "title": "Buckingham Palace",
+      "body": "Lorem ipsum",
+      "author": "seyha",
+      "id": 15
+    }
+  ]
+}
